@@ -3,6 +3,8 @@
 > Chroma Beauty SDK 适合把“照片变好看”变成可接入、可配置、可商业交付的产品能力。  
 > 商务联系: [yunxiangchuanlaobiao@yunxiangchuan.cn](mailto:yunxiangchuanlaobiao@yunxiangchuan.cn)
 
+> 安卓 Demo APK: [chroma-beauty-android-demo-v1.0.0.apk](https://github.com/18818474455/ChromaBeautySDK/releases/download/android-demo-v1.0.0/chroma-beauty-android-demo-v1.0.0.apk)
+
 ![Chroma Beauty SDK](https://raw.githubusercontent.com/18818474455/ChromaBeautySDK/main/assets/apk-demo/demo-storyboard.jpg)
 
 ## 为什么行业场景需要不同处理策略？

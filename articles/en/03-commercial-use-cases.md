@@ -3,6 +3,8 @@
 > Chroma Beauty SDK is designed to turn portrait enhancement into an integration-ready product capability, not just a collection of filters.  
 > Business contact: [yunxiangchuanlaobiao@yunxiangchuan.cn](mailto:yunxiangchuanlaobiao@yunxiangchuan.cn)
 
+> Android Demo APK: [chroma-beauty-android-demo-v1.0.0.apk](https://github.com/18818474455/ChromaBeautySDK/releases/download/android-demo-v1.0.0/chroma-beauty-android-demo-v1.0.0.apk)
+
 ![Chroma Beauty SDK](https://raw.githubusercontent.com/18818474455/ChromaBeautySDK/main/assets/apk-demo/demo-storyboard.jpg)
 
 ## Different Products Need Different Image Strategies

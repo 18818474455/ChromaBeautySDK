@@ -2,6 +2,10 @@
 
 This document shows the recommended commercial integration flow for Chroma Beauty SDK. The final API shape can be adjusted for Android, iOS, Flutter, or private deployment.
 
+Android Demo APK: [chroma-beauty-android-demo-v1.0.0.apk](https://github.com/18818474455/ChromaBeautySDK/releases/download/android-demo-v1.0.0/chroma-beauty-android-demo-v1.0.0.apk)
+
+> This APK is an Android demo for UI workflow preview and SDK evaluation discussion. It is not the production SDK package.
+
 ## 1. Typical Flow
 
 ```text
@@ -76,4 +80,3 @@ val output = engine.export(
 ## 5. Commercial Delivery Notes
 
 The public GitHub repository does not include model weights, SDK binaries, or private implementation details. Production delivery can be arranged separately with license control, model protection, integration support, and custom effect tuning.
-

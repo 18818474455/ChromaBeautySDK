@@ -1,7 +1,8 @@
 # 从一键调色到导出：移动端修图 SDK 的接入设计
 
 > 一套好接入的美颜调色 SDK，不应该只给效果，也应该给产品链路、参数体系和预览导出一致性。  
-> GitHub: [18818474455/ChromaBeautySDK](https://github.com/18818474455/ChromaBeautySDK)
+> GitHub: [18818474455/ChromaBeautySDK](https://github.com/18818474455/ChromaBeautySDK)  
+> 安卓 Demo APK: [chroma-beauty-android-demo-v1.0.0.apk](https://github.com/18818474455/ChromaBeautySDK/releases/download/android-demo-v1.0.0/chroma-beauty-android-demo-v1.0.0.apk)
 
 ![Chroma Demo Workflow](https://raw.githubusercontent.com/18818474455/ChromaBeautySDK/main/assets/apk-demo/demo-storyboard.jpg)
 

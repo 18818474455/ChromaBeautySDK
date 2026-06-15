@@ -32,3 +32,12 @@
 | `assets/apk-demo/beauty-shape-controls.jpg` | 美颜美型控制 |
 
 Business contact: [yunxiangchuanlaobiao@yunxiangchuan.cn](mailto:yunxiangchuanlaobiao@yunxiangchuan.cn)
+
+## Android Demo APK
+
+这是 **安卓 Demo / Android Demo**，用于体验 Chroma Beauty SDK Demo App 的界面流程和参数面板。
+
+- Release: [Chroma Beauty Android Demo v1.0.0](https://github.com/18818474455/ChromaBeautySDK/releases/tag/android-demo-v1.0.0)
+- APK: [chroma-beauty-android-demo-v1.0.0.apk](https://github.com/18818474455/ChromaBeautySDK/releases/download/android-demo-v1.0.0/chroma-beauty-android-demo-v1.0.0.apk)
+- Size: 163 MB
+- SHA256: `ae427e479086410cf1befc935f93d613cb6f30459e9d81a43bc5008ac15c80e6`

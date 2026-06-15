@@ -1,7 +1,8 @@
 # A Practical Integration Playbook for AI Color and Beauty Retouching SDKs
 
 > Effect quality matters, but SDK integration is also about workflow, parameters, preview latency, export consistency, and module boundaries.  
-> GitHub: [18818474455/ChromaBeautySDK](https://github.com/18818474455/ChromaBeautySDK)
+> GitHub: [18818474455/ChromaBeautySDK](https://github.com/18818474455/ChromaBeautySDK)  
+> Android Demo APK: [chroma-beauty-android-demo-v1.0.0.apk](https://github.com/18818474455/ChromaBeautySDK/releases/download/android-demo-v1.0.0/chroma-beauty-android-demo-v1.0.0.apk)
 
 ![Chroma Beauty SDK Workflow](https://raw.githubusercontent.com/18818474455/ChromaBeautySDK/main/assets/apk-demo/demo-storyboard.jpg)
 

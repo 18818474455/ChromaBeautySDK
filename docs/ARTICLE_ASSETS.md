@@ -2,6 +2,10 @@
 
 这个目录用于整理 Chroma Beauty SDK 的公开展示素材，适合放在 GitHub README、CSDN 文章、商务介绍页或 SDK 试用说明中。
 
+安卓 Demo APK: [chroma-beauty-android-demo-v1.0.0.apk](https://github.com/18818474455/ChromaBeautySDK/releases/download/android-demo-v1.0.0/chroma-beauty-android-demo-v1.0.0.apk)
+
+> 这是 Android Demo，用于体验 Demo App 界面流程和参数面板，不是正式 SDK 包。
+
 ## 推荐配图顺序
 
 1. 首屏总览图：`assets/apk-demo/demo-storyboard.jpg`

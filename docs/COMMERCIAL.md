@@ -2,6 +2,10 @@
 
 Chroma Beauty SDK is intended for commercial integration, private deployment, and customized image effect delivery.
 
+Android Demo APK: [chroma-beauty-android-demo-v1.0.0.apk](https://github.com/18818474455/ChromaBeautySDK/releases/download/android-demo-v1.0.0/chroma-beauty-android-demo-v1.0.0.apk)
+
+> This is an Android demo app for product evaluation and workflow preview. It is not the production SDK package.
+
 ## Deliverables
 
 Depending on the cooperation model, delivery can include:
@@ -40,4 +44,3 @@ An evaluation package can be prepared around a small set of agreed scenarios:
 ## License
 
 All rights reserved unless a separate written commercial agreement is provided.
-

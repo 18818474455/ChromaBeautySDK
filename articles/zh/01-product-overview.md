@@ -4,6 +4,8 @@
 > GitHub: [18818474455/ChromaBeautySDK](https://github.com/18818474455/ChromaBeautySDK)  
 > 商务联系: [yunxiangchuanlaobiao@yunxiangchuan.cn](mailto:yunxiangchuanlaobiao@yunxiangchuan.cn)
 
+> 安卓 Demo APK: [chroma-beauty-android-demo-v1.0.0.apk](https://github.com/18818474455/ChromaBeautySDK/releases/download/android-demo-v1.0.0/chroma-beauty-android-demo-v1.0.0.apk)
+
 ![Chroma Beauty SDK Demo App](https://raw.githubusercontent.com/18818474455/ChromaBeautySDK/main/assets/apk-demo/demo-storyboard.jpg)
 
 ## 为什么不是再做一套滤镜？
